@@ -1,0 +1,6 @@
+# Every issue goes through a template, so everyone sees the privacy warning.
+blank_issues_enabled: false
+contact_links:
+  - name: Häfele product support (hardware, the Häfele app)
+    url: https://www.hafele.com
+    about: For your lights or the official Häfele Connect Mesh app. Not for this Homey app — it is unofficial.
